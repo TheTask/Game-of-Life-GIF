@@ -28,6 +28,7 @@ The deadline is **March 31st, 23:59pm**.
 Email both the gif files to me at **marek.borik@mail.mcgill.ca** with the subject line **Gifs**.
 
 ### Starting Conditions
+Copy the starting arrays to your main method and call simulateNGenerations().
 
 Starting Condition 1:
 - 16 iterations, 150 ms between frames, infinite loop

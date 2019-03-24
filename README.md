@@ -32,8 +32,7 @@ Email both the gif files to me at **marek.borik@mail.mcgill.ca** with the subjec
 Starting Condition 1:
 - 16 iterations, 150 ms between frames, infinite loop
 ```
-int[][] exploder = {
-                           {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}, 
+int[][] exploder = {       {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}, 
                            {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}, 
                            {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
                            {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}, 
@@ -50,7 +49,7 @@ int[][] exploder = {
 Starting Condition 2:
 - 20 iterations, 150 ms between frames, infinite loop
 ```
- int[][] glider =   {      {0,0,0,0,0,0,0,0,0,0}, 
+int[][] glider =   {       {0,0,0,0,0,0,0,0,0,0}, 
                            {0,0,1,0,0,0,0,0,0,0}, 
                            {0,0,0,1,0,0,0,0,0,0}, 
                            {0,1,1,1,0,0,0,0,0,0}, 

@@ -64,9 +64,9 @@ Email both the gif files to me at **marek.borik@mail.mcgill.ca** with the subjec
 ### Rules and Points
 - The gifs have to be screenshots from your IDE. If you send me other gifs from the internet, it will not count.
 - You will be able to get back up to **5%** per gif on your assignments A1-A5 for the total improvement up to **10%**.
-- We are going to assign the points after we are done grading A5.
+- We are going to assign the points after we are done grading A5 and I will email every person who submitted and letting him/her know, how many points they earned.
 - If you scored 100 on all 5 assignments, you won't get any extra marks.
-- It is possible to get partial marks on the gifs
+- It is possible to get partial marks on the gifs.
 - The key is that the individual images are alligned as much as possible, a gif like this wouldn't get full points:
 
 ![alt text](https://media.giphy.com/media/kKKHCM0FNngYwqzP9W/giphy.gif)

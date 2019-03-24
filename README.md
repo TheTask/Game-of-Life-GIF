@@ -21,11 +21,6 @@ This is my take on pentadec with 15 iterations ( the 15th iteration is the same 
 
 ![alt text](https://media.giphy.com/media/4NcZqzQLKQRPv7gxKA/giphy.gif)
 
-### Deadline
-The deadline is **March 31st, 23:59pm**.
-
-### How to submit
-Email both the gif files to me at **marek.borik@mail.mcgill.ca** with the subject line **Gifs**.
 
 ### Starting Conditions
 Copy the starting arrays to your main method and call simulateNGenerations().
@@ -60,6 +55,12 @@ int[][] glider =   {       {0,0,0,0,0,0,0,0,0,0},
                            {0,0,0,0,0,0,0,0,0,0},
                            {0,0,0,0,0,0,0,0,0,0} };
 ```
+### Deadline
+The deadline is **March 31st, 23:59pm**.
+
+### How to submit
+Email both the gif files to me at **marek.borik@mail.mcgill.ca** with the subject line **Gifs**.
+
 ### Rules and Points
 - The gifs have to be screenshots from your IDE. If you send me other gifs from the internet, it will not count.
 - You will be able to get back up to **5%** per gif on your assignments A1-A5 for the total improvement up to **10%**.

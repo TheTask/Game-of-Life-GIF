@@ -71,4 +71,4 @@ Email both the gif files to me at **marek.borik@mail.mcgill.ca** with the subjec
 
 ![alt text](https://media.giphy.com/media/kKKHCM0FNngYwqzP9W/giphy.gif)
 
-Any additional questions direct to the MyCourses forum or Reddit. Have fun and happy coding!
+Any additional questions should be directed to the MyCourses forum or Reddit. Have fun and happy coding!

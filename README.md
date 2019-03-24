@@ -4,7 +4,7 @@
 
 Hello everyone,
 
-we decided to make your coding of Assignment 4 a little bit more fun as well as give you an option to earn some extra marks. Your task is going to be simple - make a GIF out of the iterations from your Game of Life class.
+we decided to make your coding of Assignment 4 a little bit more fun as well as give you an option to earn some extra marks. Your task is going to be simple - make two GIFs out of the iterations from your Game of Life class.
 
 ### Context
 
@@ -21,3 +21,23 @@ This is my take on pentadec with 15 iterations ( the 15th iteration is the same 
 
 ![alt text](https://media.giphy.com/media/4NcZqzQLKQRPv7gxKA/giphy.gif)
 
+### Deadline
+The deadline is **March 31st, 23:59pm**.
+
+### How to
+Email both the gif files to me at **marek.borik@mail.mcgill.ca** with the subject line **Gifs**.
+
+### Starting Conditions
+
+Starting Condition 1:
+
+Starting Condition 2:
+
+### Rules and Points
+- You will be able to get back up to **5%** per gif on your assignments A1-A5 for the total improvement up to **10%**.
+- We are going to assign the points after we are done grading A5.
+- If you scored 100 on all 5 assignments, you won't get any extra marks.
+- It is possible to get partial marks on the gifs
+- The key is that the individual images are alligned as much as possible, a gif like this wouldn't get many points:
+
+![alt text](https://media.giphy.com/media/kKKHCM0FNngYwqzP9W/giphy.gif)

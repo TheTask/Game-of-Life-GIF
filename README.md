@@ -24,7 +24,7 @@ This is my take on pentadec with 15 iterations ( the 15th iteration is the same 
 ### Deadline
 The deadline is **March 31st, 23:59pm**.
 
-### How to
+### How to submit
 Email both the gif files to me at **marek.borik@mail.mcgill.ca** with the subject line **Gifs**.
 
 ### Starting Conditions

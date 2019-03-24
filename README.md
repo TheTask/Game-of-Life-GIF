@@ -4,7 +4,7 @@
 
 Hello everyone,
 
-we decided to make your coding of Assignment 4 a little bit more fun as well as give you an option to earn some extra marks. Your task is going to be simple - make two GIFs out of the iterations from your Game of Life class.
+we decided to make your coding of Assignment 4 a little bit more fun as well as give you an option to earn some extra marks. Your task is going to be simple - make two GIFs out of the iterations from your Game of Life program.
 
 ### Context
 

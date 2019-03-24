@@ -19,5 +19,5 @@ Your task is to create 2 GIFs by taking screenshots of each evolution and then b
 
 This is my take on pentadec with 15 iterations ( the 15th iteration is the same as the first one ):
 
-![alt text](https://imgur.com/SKTKlIv)
+![alt text](https://media.giphy.com/media/4NcZqzQLKQRPv7gxKA/giphy.gif)
 

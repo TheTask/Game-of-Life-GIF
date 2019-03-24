@@ -15,4 +15,9 @@ Since the Game of Life is a zero-player game ( meaning the evolution is determin
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 
+Your task is to create 2 GIFs by taking screenshots of each evolution and then by using any tool you want ( such as [gifmaker.me](https://gifmaker.me) ) create the GIF files. 
+
+This is my take on pentadec with 15 iterations ( the 15th iteration is the same as the first one ):
+
+![alt text](blob:https://imgur.com/54a39a7f-e529-4c50-97c9-db48071351ca)
 

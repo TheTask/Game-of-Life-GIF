@@ -26,7 +26,7 @@ This is my take on pentadec with 15 iterations ( the 15th iteration is the same 
 Copy the starting arrays to your main method and call simulateNGenerations().
 
 GIF 1:
-- 16 interations ( including the original seed ), 150 ms between frames, infinite loop*
+- 16 iterations ( including the original seed ), 150 ms between frames, infinite loop*
 ```
 int[][] exploder = {       {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}, 
                            {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0}, 
@@ -43,7 +43,7 @@ int[][] exploder = {       {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0},
                            {0,0,0,0,0,0,0,0,0,0,0,0,0,0,0} };
 ```
 GIF 2:
-- 20 interations ( including the original seed ), 150 ms between frames, infinite loop*
+- 20 iterations ( including the original seed ), 150 ms between frames, infinite loop*
 ```
 int[][] glider =   {       {0,0,0,0,0,0,0,0,0,0}, 
                            {0,0,1,0,0,0,0,0,0,0}, 
@@ -56,7 +56,8 @@ int[][] glider =   {       {0,0,0,0,0,0,0,0,0,0},
                            {0,0,0,0,0,0,0,0,0,0} };
 ```
 *\*Infinite loop means that the GIF should repeat forever*
- 
+Note: 16 interations ( including the original seed ) means that the GIF should consist of 17 frames ( 21 for the 2nd GIF ).
+
 ### Deadline
 The deadline is **March 31st, 23:59pm**.
 

@@ -56,7 +56,7 @@ int[][] glider =   {       {0,0,0,0,0,0,0,0,0,0},
                            {0,0,0,0,0,0,0,0,0,0} };
 ```
 * *infinite loop means that the GIF should repeat forever*
-
+ 
 ### Deadline
 The deadline is **March 31st, 23:59pm**.
 

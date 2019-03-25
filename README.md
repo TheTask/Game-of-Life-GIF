@@ -11,7 +11,7 @@ we decided to make your coding of Assignment 4 a little bit more fun as well as 
 [John Horton Conway](https://en.wikipedia.org/wiki/John_Horton_Conway), the creator of the Game of Life is one of the most respected mathematicians currently alive. He is also known for his Conway Notation, Surreal Numbers, Free Will Theorem and many other attributions. You can play The Game of Life interactively at [https://playgameoflife.com](https://playgameoflife.com).
 
 ### Your Task
-Since the Game of Life is a zero-player game ( meaning the evolution is determined by its initial state ), people have discovered interesting patterns that produce fascinating output. Here is an example of what is known as *Gosper glider Gun*. 
+Since the Game of Life is a zero-player game ( meaning the evolution is determined by its initial state ), people have discovered interesting patterns that produce fascinating output. Here is an example of what is known as *Gosper Glider Gun*. 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/e/e5/Gospers_glider_gun.gif)
 

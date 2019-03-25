@@ -61,7 +61,7 @@ int[][] glider =   {       {0,0,0,0,0,0,0,0,0,0},
 The deadline is **March 31st, 23:59pm**.
 
 ### How to submit
-Email both GIF files to me at **marek.borik@mail.mcgill.ca** with the subject line **Gifs**.
+Email both GIF files to me at **marek.borik@mail.mcgill.ca** with the subject line **GIFs**.
 
 ### Rules and Points
 - The GIFs have to be screenshots from your IDE. If you send me other GIFs from the internet, it will not count.

@@ -56,7 +56,8 @@ int[][] glider =   {       {0,0,0,0,0,0,0,0,0,0},
                            {0,0,0,0,0,0,0,0,0,0} };
 ```
 *\*Infinite loop means that the GIF should repeat forever*
-Note: 16 interations ( including the original seed ) means that the GIF should consist of 17 frames ( 21 for the 2nd GIF ).
+
+Note: 16 iterations ( including the original seed ) means that the GIF should consist of 17 frames ( 21 for the 2nd GIF ).
 
 ### Deadline
 The deadline is **March 31st, 23:59pm**.

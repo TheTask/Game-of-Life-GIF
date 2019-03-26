@@ -71,6 +71,7 @@ Email both GIF files to me at **marek.borik@mail.mcgill.ca** with the subject li
 - To get full points, your GIFs have to produce correct output and follow all the other conditions posted.
 - We are going to assign the points after we are done grading A5 and I will email every person who submitted and letting him/her know, how many points they earned.
 - It is possible to get partial marks on the GIFs, however if you scored 100 on all 5 assignments, you won't get any extra marks.
+- You cannot resubmit the GIFs for more marks if you didn't get 10 points. One submission per person.
 - The key is to align the individual images as much as possible, a jittery GIF like this wouldn't get full points:
 
 ![alt text](https://media.giphy.com/media/kKKHCM0FNngYwqzP9W/giphy.gif)
